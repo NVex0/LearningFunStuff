@@ -72,6 +72,11 @@ for x in range(img1.size[0]):
 result.show()
 ```
 
+Or you can simply "Xoring" them using `Stegsolve` tool:
+
+![image](https://github.com/NVex0/LearningFunStuff/assets/113530029/4ea61d3c-e287-47f3-99eb-df972c50a650)
+
+
 Now you can see the text, it is the flag:
 
 ![scaraboss](https://github.com/NVex0/LearningFunStuff/assets/113530029/ad2dfaa0-4354-45ce-a008-31150b2255c8)
