@@ -1,1 +1,1 @@
-Học được gì thì nghịch cái đó :v
+S1LV3RW0LF
