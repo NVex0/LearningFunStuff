@@ -1,1 +1,1 @@
-
+Vanessa the android's emotions are gradually fading, along with her memories. This is caused by a system that has been encrypting her memories. I managed to capture the system's direct memory encrypting process. Using a few tricks, I have also obtained the executable code from the system. Please help me restore Vanessa's memories.
