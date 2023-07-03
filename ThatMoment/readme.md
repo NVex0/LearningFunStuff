@@ -1,3 +1,3 @@
 Can you find the flag? 
 
-Flag format: Flag{}
+Flag format: `Flag{}`
